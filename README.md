@@ -1,6 +1,4 @@
-### 👋 Hello Hamsa's friend(s)!
-
-😳😳😳 am i getting stalked...? 😳😳😳
+### 👋
 
 <!--
 **atomicapple0/atomicapple0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
